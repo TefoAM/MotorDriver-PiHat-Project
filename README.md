@@ -1,6 +1,8 @@
+# MotorDriver-PiHat-Project
+
 The PiHAT is a hardware board attached to a Raspberry Pi microcontroller. it is used to drive a motor using an external power source.
 
-Bill of Materials
+##Bill of Materials
 
 - boost convertor.asc
 - foldbackcircuit.asc
@@ -9,9 +11,8 @@ Bill of Materials
 - H-Bridge circuit.asc
 - LED Circuit.asc
 
-Instruction on how to use this repo
+##Instruction on how to use this repo
 
-# MotorDriver-PiHat-Project
 This repository contains all the files made using LT Spice with which simulations to test the behaviors of the individual circuits were performed.
 
 This git includes a list of documents created during the design of a motor driver PiHAT for a design project.
