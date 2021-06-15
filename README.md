@@ -13,7 +13,7 @@ The PiHAT is a hardware board attached to a Raspberry Pi microcontroller. it is 
 
 ##Instruction on how to use this repo
 
-This repository contains all the files made using LT Spice with which simulations to test the behaviors of the individual circuits were performed.
+This repository contains all the files made using LT Spice and Kicad with which simulations to test the behaviors of the individual circuits were performed.
 
 This git includes a list of documents created during the design of a motor driver PiHAT for a design project.
 The software required to use these documents is LT Spice, whcih can be downloaded by following the link below.
